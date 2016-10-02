@@ -4,7 +4,11 @@
 * By Lunaversity
 * https://github.com/Lunaversitay/ez-discordwidget/
 */
-
+#--> edit this
+$serverid = "";
+# edit this <--
+  
+  
 $discord_url = "https://discordapp.com/api/servers/".$serverid."/widget.json";
 $json = file_get_contents($discord_url);
 $json_table = json_decode($json, true);
