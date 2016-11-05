@@ -1,7 +1,5 @@
 <?php
 /**
-* ez-discord api (MIT)
-* By Lunaversity
 * https://github.com/Lunaversitay/ez-discordwidget/
 */
 #--> edit this
