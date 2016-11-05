@@ -1,8 +1,7 @@
 <?php
 include('inc/discord.php');
 /**
-* ez-discordwidget (MIT)
-* By Lunaversity
+* Example file
 * https://github.com/Lunaversitay/ez-discordwidget/
 */
 
