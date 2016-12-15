@@ -8,4 +8,4 @@ Refer to the example: https://github.com/Lunaversitay/ez-discordwidget/blob/mast
 
 
 #Live example:
-https://austinhh.info/xxx/discord.php
+http://austinhh.info/xxx/discord.php
